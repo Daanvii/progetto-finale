@@ -88,5 +88,8 @@ il processo è bloccato.
 
 
 ## Faccio il destroy e ricomincio, mandando tutti i comandi su setup.sh
-
+#
+Invece di usare la chiave ssh per entrare nella VM utilizzo username e password
+#
+![image](https://github.com/user-attachments/assets/eed094c9-698e-4491-8b3e-d4ece192c1b6)
 
