@@ -1,11 +1,12 @@
 #  PROGETTO DI FINE CORSO
-          Si vuole implementare un'infrastruttura su Azure
-          utilizzando Terraform che consiste in un cluster K3s ad
-          alta disponibilità con 3 nodi. Su questo cluster verrà
-          deployato un progetto Docker fornito e disponibile al
-          seguente indirizzo
-          https://github.com/MrMagicalSoftware/docker-k8s/blob/
-          main/esercitazione-docker-file.md
+Si vuole implementare un'infrastruttura su Azure
+utilizzando Terraform che consiste in un cluster K3s ad
+alta disponibilità con 3 nodi. Su questo cluster verrà
+deployato un progetto Docker fornito e disponibile al
+seguente indirizzo:
+
+                              https://github.com/MrMagicalSoftware/docker-k8s/blob/
+                              main/esercitazione-docker-file.md
 ##
 
  Ho creato i miei file all'interno di progetto-finale
@@ -92,6 +93,17 @@ il processo è bloccato.
 Invece di usare la chiave ssh per entrare nella VM utilizzo username e password
 #
 ![image](https://github.com/user-attachments/assets/eed094c9-698e-4491-8b3e-d4ece192c1b6)
+#
+          terraform init
+#
+          terraform plan
+#
+          terraform appy
+#
+Il codice risulta bloccarsi sempre allo stesso punto
+#
+![image](https://github.com/user-attachments/assets/b85e2e5c-3e98-436c-95c5-52bcc891445b)
+
 
 
 
