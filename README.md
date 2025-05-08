@@ -13,9 +13,9 @@
 ![image](https://github.com/user-attachments/assets/488a81e6-8392-4830-adb8-b7f467b23d4f)
 
 
-terraform init
-terraform plan
-terraform apply
+terraform init -> scarica i provider e prepara Terraform.
+terraform plan -> Verifica i cambiamenti prima del deploy
+terraform apply ->
 
 Inizialmente mi ha dato errore perchè ho dimenticato di creare il file setup
 ![Screenshot 2025-05-08 064402](https://github.com/user-attachments/assets/4a772f77-9587-4822-822e-22deb1aad003)
