@@ -107,6 +107,15 @@ Il codice risulta bloccarsi sempre allo stesso punto
 #
 ![image](https://github.com/user-attachments/assets/b85e2e5c-3e98-436c-95c5-52bcc891445b)
 
+# 
+
+![image](https://github.com/user-attachments/assets/cf05c51d-ec19-4c35-a38b-d5d3938fc5eb)
+
+## Come avrei concluso se tutto fosse andato a buon fine :')
+
+
+
+
 
 
 
