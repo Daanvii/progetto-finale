@@ -6,46 +6,33 @@
           seguente indirizzo
           https://github.com/MrMagicalSoftware/docker-k8s/blob/
           main/esercitazione-docker-file.md
-
 ##
 
  Ho creato i miei file all'interno di progetto-finale
 ![image](https://github.com/user-attachments/assets/488a81e6-8392-4830-adb8-b7f467b23d4f)
 
 
-terraform init -> scarica i provider e prepara Terraform.
-terraform plan -> Verifica i cambiamenti prima del deploy
-terraform apply ->
+         terraform init -> scarica i provider e prepara Terraform.
+#
+         terraform plan -> Verifica i cambiamenti prima del deploy.
+#
+         terraform apply -> Applica le modifiche e crea le risorse.
 
-Inizialmente mi ha dato errore perchè ho dimenticato di creare il file setup
-![Screenshot 2025-05-08 064402](https://github.com/user-attachments/assets/4a772f77-9587-4822-822e-22deb1aad003)
-
-
-una volta creato e rifatto l'apply è andato.
+#
+Una volta creata la VM e fatto l'apply è andato. 
+Mi sono spostata su powershell per avviare la vm utilizzando la chiave ssh
 
 ![Screenshot 2025-05-08 065626](https://github.com/user-attachments/assets/30602280-e383-4f05-b2f3-cb4b9c4d976b)
 
 ## 
 
 # Configurazione manuale
-procedo alla configurazione manuale poichè non mi ha mandato i comandi dentro setup-sh
+Procedo alla configurazione manuale
 #
 
 Entro nella vm dopo aver fatto il login su azure
 ![Screenshot 2025-05-08 092914](https://github.com/user-attachments/assets/3bf4efa3-1f6d-44e5-a6b5-bd8c3a36f586)
 #
-Verifico che il file setup.sh sia presente nella VM
-
-![Screenshot 2025-05-08 092926](https://github.com/user-attachments/assets/bbe8cde2-7f5a-4358-bbf1-83682dfa09d9)
-
-Eseguo il setup.sh manualmente
-
-![Screenshot 2025-05-08 092926](https://github.com/user-attachments/assets/4f9b662b-ae52-4669-8712-bba5b66569e0)
-
-
-
-![Screenshot 2025-05-08 092956](https://github.com/user-attachments/assets/a0861ad6-0b5d-40b3-b087-d2f8ce212c16)
-
 
 ![Screenshot 2025-05-08 093101](https://github.com/user-attachments/assets/532548ee-919c-4971-8722-de4e9066465d)
 # 
